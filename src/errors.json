@@ -1,0 +1,864 @@
+[
+  {
+    "site_id": "CO29",
+    "date": "2020-11-18",
+    "errorCount": "22",
+    "rowCount": "15",
+    "errorCodes": [
+      "40"
+    ]
+  },
+  {
+    "site_id": "Wisconsin-7",
+    "date": "2020-11-18",
+    "errorCount": "40",
+    "rowCount": "6",
+    "errorCodes": [
+      "2000",
+      "40"
+    ]
+  },
+  {
+    "site_id": "LA75",
+    "date": "2020-11-18",
+    "errorCount": "679",
+    "rowCount": "23",
+    "errorCodes": [
+      "40",
+      "4",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Riley",
+    "date": "2020-11-18",
+    "errorCount": "98",
+    "rowCount": "2",
+    "errorCodes": [
+      "4",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Suntex",
+    "date": "2020-11-18",
+    "errorCount": "51",
+    "rowCount": "5",
+    "errorCodes": [
+      "2",
+      "2000",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Fort Rock I",
+    "date": "2020-11-18",
+    "errorCount": "4",
+    "rowCount": "2",
+    "errorCodes": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Firwood",
+    "date": "2020-11-18",
+    "errorCount": "5",
+    "rowCount": "1",
+    "errorCodes": [
+      "40"
+    ]
+  },
+  {
+    "site_id": "Alkali",
+    "date": "2020-11-18",
+    "errorCount": "27",
+    "rowCount": "2",
+    "errorCodes": [
+      "2000",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Fortrock IV",
+    "date": "2020-11-18",
+    "errorCount": "1",
+    "rowCount": "1",
+    "errorCodes": [
+      "2000"
+    ]
+  },
+  {
+    "site_id": "Duus",
+    "date": "2020-11-18",
+    "errorCount": "171",
+    "rowCount": "4",
+    "errorCodes": [
+      "2",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Suntex",
+    "date": "2020-11-19",
+    "errorCount": "31",
+    "rowCount": "4",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "Fort Rock I",
+    "date": "2020-11-19",
+    "errorCount": "97",
+    "rowCount": "2",
+    "errorCodes": [
+      "4",
+      "40"
+    ]
+  },
+  {
+    "site_id": "LA75",
+    "date": "2020-11-19",
+    "errorCount": "759",
+    "rowCount": "35",
+    "errorCodes": [
+      "4",
+      "40",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Firwood",
+    "date": "2020-11-19",
+    "errorCount": "38",
+    "rowCount": "2",
+    "errorCodes": [
+      "2",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Wisconsin-7",
+    "date": "2020-11-19",
+    "errorCount": "14",
+    "rowCount": "2",
+    "errorCodes": [
+      "2000",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Alkali",
+    "date": "2020-11-19",
+    "errorCount": "20",
+    "rowCount": "2",
+    "errorCodes": [
+      "2000",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Rockgarden",
+    "date": "2020-11-19",
+    "errorCount": "1",
+    "rowCount": "1",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Duus",
+    "date": "2020-11-19",
+    "errorCount": "138",
+    "rowCount": "2",
+    "errorCodes": [
+      "2",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Fortrock IV",
+    "date": "2020-11-19",
+    "errorCount": "7",
+    "rowCount": "1",
+    "errorCodes": [
+      "2000"
+    ]
+  },
+  {
+    "site_id": "Riley",
+    "date": "2020-11-19",
+    "errorCount": "84",
+    "rowCount": "4",
+    "errorCodes": [
+      "2000",
+      "40",
+      "4"
+    ]
+  },
+  {
+    "site_id": "West Hines",
+    "date": "2020-11-19",
+    "errorCount": "11",
+    "rowCount": "1",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "CO29",
+    "date": "2020-11-19",
+    "errorCount": "36",
+    "rowCount": "12",
+    "errorCodes": [
+      "2",
+      "400",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Rockgarden",
+    "date": "2020-11-20",
+    "errorCount": "10",
+    "rowCount": "2",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Suntex",
+    "date": "2020-11-20",
+    "errorCount": "21",
+    "rowCount": "2",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "Firwood",
+    "date": "2020-11-20",
+    "errorCount": "129",
+    "rowCount": "2",
+    "errorCodes": [
+      "2",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Alkali",
+    "date": "2020-11-20",
+    "errorCount": "31",
+    "rowCount": "13",
+    "errorCodes": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Duus",
+    "date": "2020-11-20",
+    "errorCount": "166",
+    "rowCount": "3",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "Fortrock IV",
+    "date": "2020-11-20",
+    "errorCount": "4",
+    "rowCount": "2",
+    "errorCodes": [
+      "2000",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Riley",
+    "date": "2020-11-20",
+    "errorCount": "63",
+    "rowCount": "3",
+    "errorCodes": [
+      "2000",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Wisconsin-7",
+    "date": "2020-11-20",
+    "errorCount": "1",
+    "rowCount": "1",
+    "errorCodes": [
+      "40"
+    ]
+  },
+  {
+    "site_id": "LA75",
+    "date": "2020-11-20",
+    "errorCount": "863",
+    "rowCount": "32",
+    "errorCodes": [
+      "4",
+      "2",
+      "40"
+    ]
+  },
+  {
+    "site_id": "West Hines",
+    "date": "2020-11-20",
+    "errorCount": "6",
+    "rowCount": "6",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Starvation",
+    "date": "2020-11-20",
+    "errorCount": "3",
+    "rowCount": "2",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "CO29",
+    "date": "2020-11-20",
+    "errorCount": "151",
+    "rowCount": "26",
+    "errorCodes": [
+      "40"
+    ]
+  },
+  {
+    "site_id": "Fort Rock I",
+    "date": "2020-11-20",
+    "errorCount": "86",
+    "rowCount": "22",
+    "errorCodes": [
+      "40",
+      "4"
+    ]
+  },
+  {
+    "site_id": "LA75",
+    "date": "2020-11-21",
+    "errorCount": "952",
+    "rowCount": "22",
+    "errorCodes": [
+      "40",
+      "2",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Fort Rock I",
+    "date": "2020-11-21",
+    "errorCount": "116",
+    "rowCount": "42",
+    "errorCodes": [
+      "4",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Suntex",
+    "date": "2020-11-21",
+    "errorCount": "24",
+    "rowCount": "5",
+    "errorCodes": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Alkali",
+    "date": "2020-11-21",
+    "errorCount": "66",
+    "rowCount": "42",
+    "errorCodes": [
+      "4",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Starvation",
+    "date": "2020-11-21",
+    "errorCount": "30",
+    "rowCount": "16",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "West Hines",
+    "date": "2020-11-21",
+    "errorCount": "73",
+    "rowCount": "59",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Wisconsin-7",
+    "date": "2020-11-21",
+    "errorCount": "4",
+    "rowCount": "4",
+    "errorCodes": [
+      "40"
+    ]
+  },
+  {
+    "site_id": "Duus",
+    "date": "2020-11-21",
+    "errorCount": "141",
+    "rowCount": "1",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "Rockgarden",
+    "date": "2020-11-21",
+    "errorCount": "28",
+    "rowCount": "11",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "CO29",
+    "date": "2020-11-21",
+    "errorCount": "252",
+    "rowCount": "125",
+    "errorCodes": [
+      "4",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Fortrock IV",
+    "date": "2020-11-21",
+    "errorCount": "11",
+    "rowCount": "8",
+    "errorCodes": [
+      "4",
+      "2000"
+    ]
+  },
+  {
+    "site_id": "Riley",
+    "date": "2020-11-21",
+    "errorCount": "84",
+    "rowCount": "26",
+    "errorCodes": [
+      "2000",
+      "40",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Firwood",
+    "date": "2020-11-21",
+    "errorCount": "132",
+    "rowCount": "2",
+    "errorCodes": [
+      "40",
+      "2"
+    ]
+  },
+  {
+    "site_id": "LA75",
+    "date": "2020-11-22",
+    "errorCount": "1252",
+    "rowCount": "39",
+    "errorCodes": [
+      "40",
+      "2",
+      "4"
+    ]
+  },
+  {
+    "site_id": "West Hines",
+    "date": "2020-11-22",
+    "errorCount": "6",
+    "rowCount": "6",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Fort Rock I",
+    "date": "2020-11-22",
+    "errorCount": "198",
+    "rowCount": "96",
+    "errorCodes": [
+      "2",
+      "4",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Rockgarden",
+    "date": "2020-11-22",
+    "errorCount": "17",
+    "rowCount": "5",
+    "errorCodes": [
+      "4",
+      "2000"
+    ]
+  },
+  {
+    "site_id": "Fortrock IV",
+    "date": "2020-11-22",
+    "errorCount": "3",
+    "rowCount": "3",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Duus",
+    "date": "2020-11-22",
+    "errorCount": "162",
+    "rowCount": "2",
+    "errorCodes": [
+      "40",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Firwood",
+    "date": "2020-11-22",
+    "errorCount": "110",
+    "rowCount": "2",
+    "errorCodes": [
+      "2",
+      "40"
+    ]
+  },
+  {
+    "site_id": "CO29",
+    "date": "2020-11-22",
+    "errorCount": "399",
+    "rowCount": "243",
+    "errorCodes": [
+      "40",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Wisconsin-7",
+    "date": "2020-11-22",
+    "errorCount": "8",
+    "rowCount": "8",
+    "errorCodes": [
+      "40"
+    ]
+  },
+  {
+    "site_id": "Starvation",
+    "date": "2020-11-22",
+    "errorCount": "2",
+    "rowCount": "2",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Alkali",
+    "date": "2020-11-22",
+    "errorCount": "90",
+    "rowCount": "74",
+    "errorCodes": [
+      "2",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Suntex",
+    "date": "2020-11-22",
+    "errorCount": "38",
+    "rowCount": "3",
+    "errorCodes": [
+      "2",
+      "2000"
+    ]
+  },
+  {
+    "site_id": "Riley",
+    "date": "2020-11-22",
+    "errorCount": "55",
+    "rowCount": "4",
+    "errorCodes": [
+      "2000",
+      "40",
+      "4"
+    ]
+  },
+  {
+    "site_id": "LA75",
+    "date": "2020-11-23",
+    "errorCount": "1094",
+    "rowCount": "27",
+    "errorCodes": [
+      "40",
+      "4",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Firwood",
+    "date": "2020-11-23",
+    "errorCount": "66",
+    "rowCount": "2",
+    "errorCodes": [
+      "40",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Rockgarden",
+    "date": "2020-11-23",
+    "errorCount": "14",
+    "rowCount": "2",
+    "errorCodes": [
+      "2000",
+      "4"
+    ]
+  },
+  {
+    "site_id": "CO29",
+    "date": "2020-11-23",
+    "errorCount": "205",
+    "rowCount": "76",
+    "errorCodes": [
+      "4",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Duus",
+    "date": "2020-11-23",
+    "errorCount": "141",
+    "rowCount": "1",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "Suntex",
+    "date": "2020-11-23",
+    "errorCount": "19",
+    "rowCount": "5",
+    "errorCodes": [
+      "2000",
+      "4",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Wisconsin-7",
+    "date": "2020-11-23",
+    "errorCount": "2",
+    "rowCount": "2",
+    "errorCodes": [
+      "40"
+    ]
+  },
+  {
+    "site_id": "Alkali",
+    "date": "2020-11-23",
+    "errorCount": "3",
+    "rowCount": "2",
+    "errorCodes": [
+      "4",
+      "2000"
+    ]
+  },
+  {
+    "site_id": "Riley",
+    "date": "2020-11-23",
+    "errorCount": "11",
+    "rowCount": "2",
+    "errorCodes": [
+      "40",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Fortrock IV",
+    "date": "2020-11-23",
+    "errorCount": "1",
+    "rowCount": "1",
+    "errorCodes": [
+      "2000"
+    ]
+  },
+  {
+    "site_id": "CO29",
+    "date": "2020-11-24",
+    "errorCount": "30",
+    "rowCount": "26",
+    "errorCodes": [
+      "40",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Firwood",
+    "date": "2020-11-24",
+    "errorCount": "250",
+    "rowCount": "2",
+    "errorCodes": [
+      "40",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Fortrock IV",
+    "date": "2020-11-24",
+    "errorCount": "6",
+    "rowCount": "1",
+    "errorCodes": [
+      "2000"
+    ]
+  },
+  {
+    "site_id": "Starvation",
+    "date": "2020-11-24",
+    "errorCount": "6",
+    "rowCount": "5",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Wisconsin-7",
+    "date": "2020-11-24",
+    "errorCount": "783",
+    "rowCount": "116",
+    "errorCodes": [
+      "40",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Alkali",
+    "date": "2020-11-24",
+    "errorCount": "14",
+    "rowCount": "14",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Fort Rock I",
+    "date": "2020-11-24",
+    "errorCount": "29",
+    "rowCount": "3",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Suntex",
+    "date": "2020-11-24",
+    "errorCount": "8",
+    "rowCount": "2",
+    "errorCodes": [
+      "2000",
+      "2"
+    ]
+  },
+  {
+    "site_id": "Duus",
+    "date": "2020-11-24",
+    "errorCount": "140",
+    "rowCount": "1",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "West Hines",
+    "date": "2020-11-24",
+    "errorCount": "64",
+    "rowCount": "58",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "LA75",
+    "date": "2020-11-24",
+    "errorCount": "1091",
+    "rowCount": "63",
+    "errorCodes": [
+      "40",
+      "2",
+      "4",
+      "44",
+      "800"
+    ]
+  },
+  {
+    "site_id": "Riley",
+    "date": "2020-11-24",
+    "errorCount": "2",
+    "rowCount": "1",
+    "errorCodes": [
+      "4"
+    ]
+  },
+  {
+    "site_id": "Duus",
+    "date": "2020-11-25",
+    "errorCount": "34",
+    "rowCount": "1",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "Firwood",
+    "date": "2020-11-25",
+    "errorCount": "62",
+    "rowCount": "1",
+    "errorCodes": [
+      "2"
+    ]
+  },
+  {
+    "site_id": "LA75",
+    "date": "2020-11-25",
+    "errorCount": "291",
+    "rowCount": "10",
+    "errorCodes": [
+      "800",
+      "40",
+      "4"
+    ]
+  },
+  {
+    "site_id": "Wisconsin-7",
+    "date": "2020-11-25",
+    "errorCount": "64",
+    "rowCount": "48",
+    "errorCodes": [
+      "2",
+      "40"
+    ]
+  },
+  {
+    "site_id": "Riley",
+    "date": "2020-11-25",
+    "errorCount": "1",
+    "rowCount": "1",
+    "errorCodes": [
+      "4"
+    ]
+  }
+]
+
